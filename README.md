@@ -1,4 +1,4 @@
-# foss
+# Free Open Source Software
 A repository of Free Open Source Software 
 
 ## Chat
