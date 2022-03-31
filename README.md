@@ -4,3 +4,7 @@
 
 ## 💬 Chat
 - [ ] [Gitter](https://www.gitter.im)
+
+## ⏏︎ Airtables
+- [ ] [NocoDB](https://nocodb.com)
+- [ ] [Directus](https://directus.io)
